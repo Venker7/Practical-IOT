@@ -1,0 +1,10 @@
+.left-card {
+    float: left;
+    width: 50%;
+  }
+  
+  .right-card {
+    float: right;
+    width: 50%;
+  }
+  
